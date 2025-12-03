@@ -1,0 +1,5 @@
+{
+  "name": " Micro AI Enterprise Suite",
+  "description": "A secure, single-file AI production dashboard featuring RBAC, Google Sheets integration simulation, and Gemini AI tools.",
+  "requestFramePermissions": []
+}
